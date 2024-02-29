@@ -13,7 +13,7 @@
   </b>
   </h3>
   <p align="center">
-    <a href="https://github.com/RajivFullStack"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=Full-stack+Webdeveloper;Tech+Enthusiast;Learning+new+Skills" alt="Typing SVG" /></a></a>
+    <a href="https://github.com/RajivFullStack"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=.NET+Full-stack+Developer;MERN+Stack+Developer;MEAN+Stack+Developer;Blockchain+Developer;Web3+Developer" alt="Typing SVG" /></a></a>
   </p>
   <p align="center">
       「 I am a full-stack web application developer 」
@@ -55,10 +55,19 @@
 
   ## My Techstack
 
+  ![Javascript](https://img.shields.io/badge/C%20Sharp-09131B?style=for-the-badge&logo=csharp)
+  ![Javascript](https://img.shields.io/badge/DOT%20NET-09131B?style=for-the-badge&logo=.net)
+  ![Javascript](https://img.shields.io/badge/SQL%20SERVER-09131B?style=for-the-badge&logo=microsoft%20sql%20server)
+  ![Javascript](https://img.shields.io/badge/Mongo%20DB-09131B?style=for-the-badge&logo=mongodb)
+  ![Javascript](https://img.shields.io/badge/SOLID-09131B?style=for-the-badge&logo=solid)
+  ![Javascript](https://img.shields.io/badge/Azure%20DevOps-09131B?style=for-the-badge&logo=azuredevops)
+  ![Javascript](https://img.shields.io/badge/AWS%20EC2-09131B?style=for-the-badge&logo=amazonec2)
+  ![Javascript](https://img.shields.io/badge/AWS%20S3-09131B?style=for-the-badge&logo=amazons3)
   ![Javascript](https://img.shields.io/badge/Javascript-09131B?style=for-the-badge&logo=javascript)
   ![Typescript](https://img.shields.io/badge/Typescript-09131B?style=for-the-badge&logo=typescript)
   ![React](https://img.shields.io/badge/-React-09131B?style=for-the-badge&logo=react&logoColor=61DBFB)
   ![Next.js](https://img.shields.io/badge/next.js-09131B?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/ANGULAR-09131B?style=for-the-badge&logo=angular)
   ![Nodejs](https://img.shields.io/badge/Nodejs-09131B?style=for-the-badge&logo=node.js&logoColor=3C873A)
   ![Express.js](https://img.shields.io/badge/Express.js-09131B?style=for-the-badge&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-09131B?style=for-the-badge&logo=mongodb)
